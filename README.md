@@ -10,9 +10,6 @@
 
 ![image](https://github.com/Rkdi/SonyVegas/assets/166036015/a37d8fb8-0212-4b58-a725-6593370b7c77)
 
-### Features 🛠️:
-
- 
 ### How It Works:
 Download and Install: 
 Get the Setup from this repository and follow the installation instructions. 
